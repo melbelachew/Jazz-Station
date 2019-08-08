@@ -1,4 +1,4 @@
-# Jazz Station
-# RandomQuotes
-# React-extend component,  Bable, CSS, ES6
+  Jazz Station
+  RandomQuotes
+  React-extend component,  Babel, CSS, ES6
 
