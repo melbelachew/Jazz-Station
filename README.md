@@ -1,4 +1,4 @@
   # Jazz Station
     Random Quotes
-    React-extend component,  Babel, CSS, ES6
+    React component,  Babel, CSS, ES6
 
